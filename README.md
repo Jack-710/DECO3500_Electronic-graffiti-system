@@ -40,7 +40,7 @@ DECO3500_Electronic-graffiti-system/
 │ └── backend/ # Back-end Code  
 
 ## 🛠️ Tools and Technologies Used
-- **Design**:
+- **Design**: Tablet (for sketching), Photoshop
 - **Front-end**:
 - **Back-end**:
 - **Collaboration**: GitHub, MS Teams
