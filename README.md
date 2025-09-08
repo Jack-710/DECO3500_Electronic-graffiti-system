@@ -22,3 +22,37 @@ The system simulates the **temporary, competitive, and social** nature of graffi
 - Works fade over time, preserving the temporary nature of graffiti culture
 - Support user interaction (likes, merging patterns, etc.)
 - Some data will be saved in the backend for subsequent display and analysis
+
+## 📂 Repository Structure
+DECO3500_Electronic-graffiti-system/
+│── README.md # Project Description
+│── CONTRIBUTING/ # Contribution Guidelines
+│ ├── CONTRIBUTING.md # Team Collaboration Guidelines
+│ ├──
+│ ├──
+│── PROJECT_PLAN/ # Project Documents (Plan, Research Notes, Design Specifications)
+│ ├──
+│ ├──
+│ ├──
+│ ├──
+│── Code/ # Code Files
+│ ├── frontend/ # Front-end Code
+│ └── backend/ # Back-end Code
+
+## 🛠️ Tools and Technologies Used
+- **Design**:
+- **Front-end**:
+- **Back-end**:
+- **Collaboration**: GitHub, MS Teams
+
+## 📅 Timeline
+- Week Weeks 1–2:
+- Weeks 3–4:
+- Weeks 5–6:
+- Weeks 7–8:
+
+## 📌 Course Information
+- Course Name: DECO3500 – Social and Mobile Computing
+- Institution: The University of Queensland
+
+## 📷 Prototype Presentation
