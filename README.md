@@ -12,8 +12,8 @@ The system simulates the **temporary, competitive, and social** nature of graffi
 
 ## 👥 Team Members
 - Chen Li – User Research
-- [Teammate A] – Front-end Design
-- [Teammate G] – Front-end Development
+- [] – Front-end Design
+- Yuhang Wu – Front-end Development
 - [Teammate B] – Back-end Logic and Data Processing
 - [Teammate C] – Documentation and Presentation
 
