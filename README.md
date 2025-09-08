@@ -24,20 +24,20 @@ The system simulates the **temporary, competitive, and social** nature of graffi
 - Some data will be saved in the backend for subsequent display and analysis
 
 ## 📂 Repository Structure
-DECO3500_Electronic-graffiti-system/
-│── README.md # Project Description
-│── CONTRIBUTING/ # Contribution Guidelines
-│ ├── CONTRIBUTING.md # Team Collaboration Guidelines
-│ ├──
-│ ├──
-│── PROJECT_PLAN/ # Project Documents (Plan, Research Notes, Design Specifications)
-│ ├──
-│ ├──
-│ ├──
-│ ├──
-│── Code/ # Code Files
-│ ├── frontend/ # Front-end Code
-│ └── backend/ # Back-end Code
+DECO3500_Electronic-graffiti-system/  
+│── README.md # Project Description  
+│── CONTRIBUTING/ # Contribution Guidelines  
+│ ├── CONTRIBUTING.md # Team Collaboration Guidelines  
+│ ├──  
+│ ├──  
+│── PROJECT_PLAN/ # Project Documents (Plan, Research Notes, Design Specifications)  
+│ ├──  
+│ ├──  
+│ ├──  
+│ ├──  
+│── Code/ # Code Files  
+│ ├── frontend/ # Front-end Code  
+│ └── backend/ # Back-end Code  
 
 ## 🛠️ Tools and Technologies Used
 - **Design**:
