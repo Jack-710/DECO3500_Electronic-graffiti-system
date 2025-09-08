@@ -21,7 +21,7 @@
 
 ## 6. Team Roles
 - **Chen Li** – User Research
-- ** ** – Front-end Design
+- **Shino Peng** – Front-end Design
 - ** ** – Front-end Development
 - ** ** – Back-end and Interaction Logic
 - ** ** – Reporting and Documentation
