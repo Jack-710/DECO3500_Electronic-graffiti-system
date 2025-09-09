@@ -15,7 +15,7 @@ The system simulates the **temporary, competitive, and social** nature of graffi
 - Shino Peng – Front-end Design
 - Yuhang Wu – Front-end Development
 - Hok Leung Lee – Back-end Logic and Data Processing
-- [Teammate C] – Documentation and Presentation
+- Haoran Liang – Documentation and Presentation
 
 ## 🚀 Features
 - Real-time drawing and overlaying of patterns on digital walls
@@ -49,7 +49,7 @@ DECO3500_Electronic-graffiti-system/
 - **Collaboration**: GitHub, MS Teams
 
 ## 📅 Timeline
-- Week Weeks 1–4:Start forming a team
+- Weeks 1–4:Start forming a team
 - Weeks 4–6:Determine the topic and start preparation
 - Weeks 7–9:From low-fidelity images to basic software
 - Weeks 9–12:Continue to modify the software until the finished product is presented
