@@ -2,7 +2,7 @@ Meeting Minutes
 
 Date: September 8, 2025
 Time: 2:00 PM – 5:00 PM
-Attendees: Chen Li
+Attendees: Chen Li, Shino Peng, Yuhang Wu, Hok Leung Lee, Haoran Liang
 Location: Center Library
 Recorder: Chen Li
 
