@@ -37,7 +37,7 @@ DECO3500_Electronic-graffiti-system/
 │ ├── interview question iteration.docx   
 │ ├── Project Plan.md  
 │ ├── Taglt!.pptx   
-│ ├── concept.jpg
+│ ├── concept.jpg  
 │ ├── meeting.md  
 │── Code/ # Code Files  
 │ ├── frontend/ # Front-end Code  
