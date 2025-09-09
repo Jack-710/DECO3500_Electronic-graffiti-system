@@ -46,10 +46,10 @@ DECO3500_Electronic-graffiti-system/
 - **Collaboration**: GitHub, MS Teams
 
 ## 📅 Timeline
-- Week Weeks 1–2:
-- Weeks 3–4:
-- Weeks 5–6:
-- Weeks 7–8:
+- Week Weeks 1–4:
+- Weeks 4–6:
+- Weeks 7–9:
+- Weeks 9–12:
 
 ## 📌 Course Information
 - Course Name: DECO3500 – Social and Mobile Computing
