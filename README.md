@@ -14,7 +14,7 @@ The system simulates the **temporary, competitive, and social** nature of graffi
 - Chen Li – User Research
 - Shino Peng – Front-end Design
 - Yuhang Wu – Front-end Development
-- [Teammate B] – Back-end Logic and Data Processing
+- Hok Leung Lee – Back-end Logic and Data Processing
 - [Teammate C] – Documentation and Presentation
 
 ## 🚀 Features
@@ -46,10 +46,10 @@ DECO3500_Electronic-graffiti-system/
 - **Collaboration**: GitHub, MS Teams
 
 ## 📅 Timeline
-- Week Weeks 1–4:
-- Weeks 4–6:
-- Weeks 7–9:
-- Weeks 9–12:
+- Week Weeks 1–4:Start forming a team
+- Weeks 4–6:Determine the topic and start preparation
+- Weeks 7–9:From low-fidelity images to basic software
+- Weeks 9–12:Continue to modify the software until the finished product is presented
 
 ## 📌 Course Information
 - Course Name: DECO3500 – Social and Mobile Computing
