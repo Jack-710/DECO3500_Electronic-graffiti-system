@@ -11,7 +11,7 @@ The system simulates the **temporary, competitive, and social** nature of graffi
 - Foster social connections and engagement within the community
 
 ## 👥 Team Members
-- Chen Li – User Research
+- Chen Li – Project Leader and User Research
 - Shino Peng – Front-end Design
 - Yuhang Wu – Front-end Development
 - Hok Leung Lee – Back-end Logic and Data Processing
