@@ -1,15 +1,14 @@
-# Contributing Guidelines
+# Contribution Guidelines
 ## Branch Guidelines
-- `main` branch: Main branch, storing final versions.
-- `dev` branch: Development branch, where regular code updates are made.
-- New features: `feature/feature-name` (e.g., `feature/login-ui`).
+- `main` branch: The master branch, where final versions are stored.
+- `dev` branch: The development branch, where code is regularly updated.
 ## Commit Message Guidelines
-- Use concise and clear English descriptions:
-- `Add user login page`
-- `Fix bug in drawing tool`
-- `Update project plan documentation`
+- Use concise, clear English descriptions:
+- `Added user login page`
+- `Fixed bugs in drawing tools`
+- `Updated project plan document`
 ## Pull Request Guidelines
-- Each pull request must clearly state the changes made.
-- At least one teammate must review the pull request before merging it into `main`.
+- Each pull request must clearly describe the changes made.
+- At least one team member must review a pull request before it can be merged into the `main` branch.
 ## Personal Contributions
-- Please create a personal folder to store your weekly contributions.
+- Please create a personal document describing your contributions on GitHub.
