@@ -27,15 +27,15 @@ The system simulates the **temporary, competitive, and social** nature of graffi
 DECO3500_Electronic-graffiti-system/  
 │── README.md # Project Description  
 │── CONTRIBUTING/ # Contribution Guidelines  
-│ ├── CONTRIBUTING.md # Team Collaboration Guidelines  
-│ ├──  
+│ ├── Chen Li.md # Chenli's personal contribution  
+│ ├── Shino
 │ ├──  
 │── PROJECT_PLAN/ # Project Documents (Plan, Research Notes, Design Specifications)  
 │ ├── Deco May Cry_Chater  
 │ ├── INTERVIEW.docx  
 │ ├── 采访稿.docx  
 │ ├── interview question iteration.docx   
-│ ├── Project Plan.md  
+│ ├── Design Specification.docx    
 │ ├── Taglt!.pptx   
 │ ├── concept.jpg  
 │ ├── meeting.md  
