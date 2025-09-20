@@ -28,7 +28,7 @@ DECO3500_Electronic-graffiti-system/
 │── README.md # Project Description  
 │── CONTRIBUTING/ # Contribution Guidelines  
 │ ├── Chen Li.md # Chenli's personal contribution  
-│ ├── Shino
+│ ├── Shino  
 │ ├──  
 │── PROJECT_PLAN/ # Project Documents (Plan, Research Notes, Design Specifications)  
 │ ├── Deco May Cry_Chater  
