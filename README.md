@@ -32,13 +32,13 @@ DECO3500_Electronic-graffiti-system/
 │ ├──  
 │── PROJECT_PLAN/ # Project Documents (Plan, Research Notes, Design Specifications)  
 │ ├── Deco May Cry_Chater  
-│ ├── INTERVIEW.docx  
-│ ├── 采访稿.docx  
-│ ├── interview question iteration.docx   
+│ ├── Interview Audio  
+│ ├── Interview  
+│ ├── Meeting minutes   
 │ ├── Design Specification.docx    
 │ ├── Taglt!.pptx   
 │ ├── concept.jpg  
-│ ├── meeting.md  
+│ ├── References  
 │── Code/ # Code Files  
 │ ├── frontend/ # Front-end Code  
 │ └── backend/ # Back-end Code  
