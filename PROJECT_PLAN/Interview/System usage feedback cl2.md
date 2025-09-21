@@ -1,5 +1,10 @@
 System Usage Feedback 2 (Interviewee B)
+Moderator: Hello, thank you for joining us today. We'll ask you to look at the screen and think as you speak. There are no right or wrong answers.
+If you feel uncomfortable at any point, you can skip a question or stop.
+What you share will only be used for this class research. We will not collect your personal information, and your name will not be shared.
+Do you agree to continue?
 
+Yes, I agree to continue
 Speaker 1:
 Hello, what was your first reaction when you scanned the QR code to join and saw that you could draw in real time and project it onto a public screen?
 
