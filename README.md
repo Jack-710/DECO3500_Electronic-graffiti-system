@@ -27,11 +27,11 @@ The system simulates the **temporary, competitive, and social** nature of graffi
 DECO3500_Electronic-graffiti-system/  
 │── README.md # Project Description  
 │── CONTRIBUTING/ # Contribution Guidelines  
-│ ├── Chen Li 
-│ ├── Shino  
-│ ├── Eden 
-│ ├── Hok Leung Lee 
-│ ├── Yuhang Wu 
+│ ├── Chen Li  
+│ ├── Shino   
+│ ├── Eden  
+│ ├── Hok Leung Lee  
+│ ├── Yuhang Wu  
 │── PROJECT_PLAN/ # Project Documents (Plan, Research Notes, Design Specifications)  
 │ ├── Prototyping  
 │ ├── Interview Audio  
