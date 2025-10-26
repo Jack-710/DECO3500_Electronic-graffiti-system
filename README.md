@@ -27,17 +27,18 @@ The system simulates the **temporary, competitive, and social** nature of graffi
 DECO3500_Electronic-graffiti-system/  
 │── README.md # Project Description  
 │── CONTRIBUTING/ # Contribution Guidelines  
-│ ├── Chen Li.md # Chenli's personal contribution  
+│ ├── Chen Li 
 │ ├── Shino  
-│ ├──  
+│ ├── Eden 
+│ ├── Hok Leung Lee 
+│ ├── Yuhang Wu 
 │── PROJECT_PLAN/ # Project Documents (Plan, Research Notes, Design Specifications)  
-│ ├── Deco May Cry_Chater  
+│ ├── Prototyping  
 │ ├── Interview Audio  
 │ ├── Interview  
 │ ├── Meeting minutes   
-│ ├── Design Specification.docx    
-│ ├── Taglt!.pptx   
-│ ├── concept.jpg  
+│ ├── Presentation    
+│ ├── User_Testing     
 │ ├── References  
 │── Code/ # Code Files  
 │ ├── frontend/ # Front-end Code  
@@ -45,8 +46,8 @@ DECO3500_Electronic-graffiti-system/
 
 ## 🛠️ Tools and Technologies Used
 - **Design**: Tablet (for sketching), Photoshop
-- **Front-end**:
-- **Back-end**:
+- **Front-end**: html
+- **Back-end**: js
 - **Collaboration**: GitHub, MS Teams
 
 ## 📅 Timeline
